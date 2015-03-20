@@ -18,6 +18,6 @@ But it was the goal of CHadoop to do the installation piecemeal while following 
 
 Also, doing it this way allows one to digest what the components of Hadoop are and how they operate together. Sometimes during installation a problem will arise giving the opportunity to solve the problem and learn Hadoop that much better.
 
-We hope you enjoy these instructions.
+We hope you find these instructions useful in your pursuit of data science.
 
 Please leave feedback at http://meetup.com/CHadoop
